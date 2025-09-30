@@ -49,7 +49,7 @@ To run this project yourself, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/WAPunsisiYemaniPerera/Skin-Disease-Detector.git
     ```
 
 2.  **Prepare the Dataset:**
